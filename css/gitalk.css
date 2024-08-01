@@ -544,3 +544,8 @@
     transform: rotate(360deg);
   }
 }
+
+.img-center {
+  display: block;
+  margin: 0 auto;
+}
